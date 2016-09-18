@@ -1,0 +1,16 @@
+# robots.txt
+User-agent: *
+Allow: /
+Allow: /archives/
+Allow: /categories/
+
+
+Disallow: /vendors/
+Disallow: /img/
+Disallow: /js/
+Disallow: /css/
+Disallow: /fonts/
+Disallow: /vendors/
+Disallow: /fancybox/
+
+Sitemap: http://mute.ml/sitemap.xml
